@@ -1,13 +1,12 @@
 const header = document.querySelector("header");
+const menuIcon = document.querySelector("#menu-icon");
+const navMenu = document.querySelector(".navmenu");
 
-window.addEventListener("scroll", function () {
-  header.classList.toggle("sticky", this.window.scrollY > 0);
+window.addEventListener("scroll", () => {
+  header.classList.toggle("sticky", window.scrollY > 0);
 });
 
-let menu = document.querySelector("#menu-icon");
-let navmenu = document.querySelector(".navmenu");
-
-menu.onclick = () => {
-  menu.classList.toggle("bx-x");
-  navmenu.classList.toggle("open");
-};
+menuIcon.addEventListener("click", () => {
+  menuIcon.classList.toggle("bx-x");
+  navMenu.classList.toggle("open");
+});
