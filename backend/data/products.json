@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Half Running Set",
+    "price": "$99 - $129",
+    "image": "Image/1.jpg",
+    "tag": "Sale"
+  },
+  {
+    "id": 2,
+    "name": "Formal Men Lowers",
+    "price": "$99 - $129",
+    "image": "Image/2.jpg",
+    "tag": "New"
+  },
+  {
+    "id": 3,
+    "name": "Half Running Suit",
+    "price": "$99 - $129",
+    "image": "Image/3.jpg",
+    "tag": ""
+  },
+  {
+    "id": 4,
+    "name": "Fancy Lady Dress",
+    "price": "$99 - $129",
+    "image": "Image/4.jpg",
+    "tag": "Hot"
+  },
+  {
+    "id": 5,
+    "name": "Flix Flox Jeans",
+    "price": "$99 - $129",
+    "image": "Image/5.jpg",
+    "tag": ""
+  },
+  {
+    "id": 6,
+    "name": "Fancy Salwar Suits",
+    "price": "$99 - $129",
+    "image": "Image/6.jpg",
+    "tag": "Hot"
+  },
+  {
+    "id": 7,
+    "name": "Printed Straight Kurta",
+    "price": "$99 - $129",
+    "image": "Image/7.jpg",
+    "tag": "Sale"
+  },
+  {
+    "id": 8,
+    "name": "Collot Full Dress",
+    "price": "$99 - $129",
+    "image": "Image/8.jpg",
+    "tag": "Sale"
+  }
+]
