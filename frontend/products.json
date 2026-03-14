@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Half Running Set",
+    "price": "$99 - $129",
+    "image": "Image/1.jpg",
+    "tag": "Sale",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A clean and modern casual set made for everyday comfort and smart street style."
+  },
+  {
+    "id": 2,
+    "name": "Formal Men Lowers",
+    "price": "$99 - $129",
+    "image": "Image/2.jpg",
+    "tag": "New",
+    "sizes": ["M", "L", "XL"],
+    "description": "Comfortable formal lowers with a tailored fit for daily wear and casual office looks."
+  },
+  {
+    "id": 3,
+    "name": "Half Running Suit",
+    "price": "$99 - $129",
+    "image": "Image/3.jpg",
+    "tag": "",
+    "sizes": ["S", "M", "L"],
+    "description": "A sporty fashion piece with a relaxed fit and lightweight fabric."
+  },
+  {
+    "id": 4,
+    "name": "Fancy Lady Dress",
+    "price": "$99 - $129",
+    "image": "Image/4.jpg",
+    "tag": "Hot",
+    "sizes": ["S", "M", "L"],
+    "description": "Elegant and stylish dress designed for events, weekends, and modern fashion looks."
+  },
+  {
+    "id": 5,
+    "name": "Flix Flox Jeans",
+    "price": "$99 - $129",
+    "image": "Image/5.jpg",
+    "tag": "",
+    "sizes": ["M", "L", "XL"],
+    "description": "Modern jeans with a clean fit and a simple everyday style."
+  },
+  {
+    "id": 6,
+    "name": "Fancy Salwar Suits",
+    "price": "$99 - $129",
+    "image": "Image/6.jpg",
+    "tag": "Hot",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Traditional style with a modern look, designed for comfort and elegant wear."
+  },
+  {
+    "id": 7,
+    "name": "Printed Straight Kurta",
+    "price": "$99 - $129",
+    "image": "Image/7.jpg",
+    "tag": "Sale",
+    "sizes": ["S", "M", "L"],
+    "description": "A printed kurta with a straight cut that feels simple, fresh, and stylish."
+  },
+  {
+    "id": 8,
+    "name": "Collot Full Dress",
+    "price": "$99 - $129",
+    "image": "Image/8.jpg",
+    "tag": "Sale",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A full dress with a soft modern design, perfect for a polished fashion look."
+  }
+]

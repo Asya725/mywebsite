@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Details - Alsofties Store</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/boxicons@latest/css/boxicons.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="header-inner">
+        <a href="Main.html" class="logo">
+          <img src="./Image/logo.png" alt="Alsofties Store Logo" />
+        </a>
+
+        <ul class="navmenu">
+          <li><a href="Main.html">Home</a></li>
+          <li><a href="products.html">Products</a></li>
+          <li><a href="Main.html#updates">Updates</a></li>
+          <li><a href="Main.html#contact">Contact</a></li>
+        </ul>
+
+        <div class="nav-icon">
+          <a href="products.html#favorites" aria-label="Favorites">
+            <i class="bx bx-heart"></i>
+          </a>
+          <a href="#" aria-label="User">
+            <i class="bx bx-user"></i>
+          </a>
+          <a href="products.html#cart" class="cart-link" aria-label="Cart">
+            <i class="bx bx-cart"></i>
+            <span class="cart-count" id="cart-count">0</span>
+          </a>
+          <div class="bx bx-menu" id="menu-icon"></div>
+        </div>
+      </div>
+    </header>
+
+    <section class="product-detail-section">
+      <div class="product-detail" id="product-detail"></div>
+    </section>
+
+    <div class="end-text">
+      <p>Copyright © 2024. All rights reserved. Designed by Asya.</p>
+    </div>
+
+    <script src="js/shared.js"></script>
+    <script src="js/product-detail.js"></script>
+  </body>
+</html>
